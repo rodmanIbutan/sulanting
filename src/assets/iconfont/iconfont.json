@@ -1,0 +1,44 @@
+{
+  "id": "3416959",
+  "name": "项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "629357",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "26433198",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "737969",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "767685",
+      "name": "人民币",
+      "font_class": "renminbi",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "3142977",
+      "name": "长箭头右",
+      "font_class": "changjiantouyou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
